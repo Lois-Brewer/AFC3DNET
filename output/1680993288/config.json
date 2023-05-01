@@ -1,0 +1,21 @@
+{
+  "batchsize": 8,
+  "data_dir": "LEVIR-CD256",
+  "epochs": 100,
+  "optim": "adamW",
+  "lr": 0.0001,
+  "lr_scheduler": "cosine",
+  "warmup_epoch": -1,
+  "warmup_multiplier": 100,
+  "lr_decay_epochs": [
+    120,
+    160,
+    200
+  ],
+  "lr_decay_steps": 20,
+  "lr_decay_rate": 0.1,
+  "weight_decay": 0.0001,
+  "momentum": 0.9,
+  "clip": 0.5,
+  "output_dir": "./output\\1680993288"
+}
