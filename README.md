@@ -1,8 +1,12 @@
 # Adjacent-level Feature Cross-Fusion with 3D CNN for Remote Sensing Image Change Detection - cloned repository
 
 Original Paper: https://arxiv.org/ftp/arxiv/papers/2302/2302.05109.pdf
+
 Original Github: https://github.com/wm-Githuber/AFCF3D-Net
+
 See below for information on the original readme, this project focuses on detected urban changes with the SYSU-CD dataset.
+
+## Original ReadMe
 
 Here, we provide the official pytorch implementation of the paper "Adjacent-level Feature Cross-Fusion with 3D CNN for Remote Sensing Image Change Detection".
 
